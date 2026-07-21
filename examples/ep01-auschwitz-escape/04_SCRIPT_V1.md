@@ -141,6 +141,9 @@ their real work groups at roll call.
 **VISUAL PAYOFF**  
 Four empty places appear around a rough worktable.
 
+Do not fabricate or display a legible “death list” or order. Keep the warning attached
+to Piechowski's attributed recollection through a small source tag.
+
 **EXIT HOOK**  
 > First, they needed a work detail that did not exist.
 
@@ -610,4 +613,3 @@ Do not force the presenter to say `Hauptwirtschaftslager` in the episode. `HWL`,
 - The exact location and cause of the car's final stop are not asserted.
 - Jaster's death is described as unresolved.
 - No chase, gunfire, dogs, or guard attack is invented.
-
