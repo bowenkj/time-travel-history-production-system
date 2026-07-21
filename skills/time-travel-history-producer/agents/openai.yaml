@@ -1,0 +1,4 @@
+interface:
+  display_name: "Time-Travel History Producer"
+  short_description: "Build fast, source-grounded immersive history videos"
+  default_prompt: "Use $time-travel-history-producer to turn a historical event into a retention-driven time-travel episode."
