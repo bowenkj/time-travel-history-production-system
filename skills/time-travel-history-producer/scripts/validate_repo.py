@@ -73,6 +73,13 @@ def validate_skill(errors: list[str]) -> None:
     if "$time-travel-history-producer" not in yaml:
         error("agents/openai.yaml default_prompt must mention the skill", errors)
 
+    workflow = (SKILL / "references" / "WORKFLOW.md").read_text(encoding="utf-8")
+    if "Storyboard the chronological journey before designing or producing cold-open-exclusive" not in workflow:
+        error("workflow is missing the journey-before-hook production rule", errors)
+    retention = (SKILL / "references" / "RETENTION_QA.md").read_text(encoding="utf-8")
+    if "Cold-open candidates should come from complete conflict beats" not in retention:
+        error("retention QA is missing the journey-derived hook rule", errors)
+
 
 def validate_learning_log(errors: list[str]) -> None:
     path = ROOT / "knowledge" / "learnings.jsonl"

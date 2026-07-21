@@ -19,6 +19,11 @@ Copy the grammar, not the creator's persona or wording.
 
 ## Hook gate
 
+Cold-open candidates should come from complete conflict beats already designed inside
+the journey. Storyboard the chronological journey first, then select the hook using
+the strongest footage or production candidate actually available. Do not create a
+detached opening set piece before understanding how its full scene plays.
+
 By 0:05 show a consequence, problem or anomaly. By 0:15 establish why it matters. By
 0:35 clarify the mission without resolving the main curiosity gap.
 
@@ -28,6 +33,7 @@ Reject hooks that:
 - show random “exciting” clips without a complete conflict beat;
 - end a sentence or human action mid-thought without deliberate suspense;
 - summarize the entire event instead of opening a question.
+- require cold-open-exclusive fictional action that the journey never delivers.
 
 ## Story movement
 

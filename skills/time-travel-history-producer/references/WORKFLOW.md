@@ -112,10 +112,19 @@ Lock before generation:
 Every shot must have a story function. Prefer character action, decision and reaction
 over empty establishing imagery.
 
+Storyboard the chronological journey before designing or producing cold-open-exclusive
+shots. Mark possible hook moments while boarding, but choose the final cold open only
+after the complete journey reveals which conflict beats are visually strongest and
+actually available.
+
 ## 7. Production
 
-- Build a 45–90 second proof containing the hook, host mode and one historical action
-  before producing the full episode.
+- Generate the approved chronological journey sequences before making footage solely
+  for the cold open. The hook should normally be cut from complete conflict beats that
+  already belong to the journey.
+- Once strong journey material exists, assemble a 45–90 second opening proof containing
+  the derived hook, host mode and one historical action before finishing the full
+  episode.
 - Generate/edit in short sequences with stable handles and version numbers.
 - Keep narration over moving, relevant footage when possible; use stills only when the
   evidence itself is a still.

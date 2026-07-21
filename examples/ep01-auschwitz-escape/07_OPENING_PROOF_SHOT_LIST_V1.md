@@ -1,8 +1,13 @@
 # Opening Proof Shot List V1 — EP01 Auschwitz Escape
 
-Status: ready for storyboard / animatic, not full-resolution generation  
+Status: **exploratory opening plan; superseded as production order by full-journey storyboard**
 Scope: 0:00–1:30  
 Continuity dependency: `06_CONTINUITY_BIBLE_V1.md`  
+
+Do not generate these hook shots first. Complete the chronological journey storyboard
+in `09_FULL_JOURNEY_STORYBOARD_PLAN_V1.md`, generate the journey material later, and
+derive the final hook from its strongest complete conflict beats. This file remains an
+opening-structure reference only.
 
 ## Timing and editorial rules
 
