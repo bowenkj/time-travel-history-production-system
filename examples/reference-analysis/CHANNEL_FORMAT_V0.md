@@ -58,6 +58,15 @@ off the thumbnail/title promise.
 7. The episode's central encounter or consequence pays off.
 8. The host returns or debriefs with one changed belief, not a generic moral.
 
+## Participant premise
+
+When the episode uses participant-mode time travel, treat the host as an original
+member of the dramatized scenario from the start. Build identity, clothing, transport
+and blocking for that ensemble size without creating a separate “extra time traveler”
+logistics subplot unless it is the episode's chosen source of conflict. Keep the
+historical record and host fiction clear through framing and disclosure, not repeated
+in-story apologies.
+
 ## Non-negotiable production rules
 
 - The host is a participant, not a floating narrator.
