@@ -14,7 +14,7 @@ post-escape search. Storyboard and later generate those beats in their real cont
 first. Then select a hook that is visually strong, understandable, and ends at a
 deliberate question without cutting a sentence or action arbitrarily.
 
-Existing hook boards in `storyboard/v1/` are exploratory only.
+Superseded hook-first boards have been removed from the review directory.
 
 ## Sequence map
 
@@ -140,4 +140,3 @@ After journey storyboards and journey footage exist, score candidate hook beats 
 
 The final hook may use one beat or a short progression of beats, but should not require
 new fictional footage made only to look exciting.
-

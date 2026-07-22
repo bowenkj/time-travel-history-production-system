@@ -117,6 +117,12 @@ shots. Mark possible hook moments while boarding, but choose the final cold open
 after the complete journey reveals which conflict beats are visually strongest and
 actually available.
 
+Keep user-facing review directories canonical: one active artifact per sequence.
+After a correction passes QA, merge it into the numbered master and remove correction
+sidecars, superseded drafts and obsolete review files from the delivery directory.
+Use Git history and the learning log—not duplicate review assets—to preserve process
+history.
+
 ## 7. Production
 
 - Generate the approved chronological journey sequences before making footage solely
