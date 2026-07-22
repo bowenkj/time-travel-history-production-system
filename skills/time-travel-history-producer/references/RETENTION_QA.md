@@ -17,6 +17,19 @@ Observed reference behavior from Chloe VS History:
 
 Copy the grammar, not the creator's persona or wording.
 
+## Reference-format gate
+
+Reference influence must be observable in the paper edit and storyboard, not merely
+named in a strategy document. Before approval, translate the selected reference into
+frame-level criteria: visual protagonist, camera relationship, interaction pattern,
+scene-change rhythm, exposition trigger and recurring payoff behavior.
+
+For a host-led first-person format, reject a storyboard when the host becomes an
+occasional explainer around detached reenactment. The host or host POV must anchor
+major transitions, historical context must answer a problem encountered on screen,
+and the depicted journey must remain legible as the host's experience while real
+historical participants retain their documented agency.
+
 ## Hook gate
 
 Cold-open candidates should come from complete conflict beats already designed inside

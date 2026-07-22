@@ -5,6 +5,17 @@
 - Grand payoff:
 - Presenter mode:
 
+## Reference-format contract
+
+- Reference grammar being borrowed:
+- Observable frame-level behaviors:
+- Visual protagonist:
+- Camera relationship:
+- Interaction pattern:
+- Exposition trigger:
+- Historical-participant agency boundary:
+- Conditions that would make this feel like a different format:
+
 ## Opening
 
 - 0:00–0:XX consequence hook:

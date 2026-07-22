@@ -81,6 +81,8 @@ def validate_skill(errors: list[str]) -> None:
     retention = (SKILL / "references" / "RETENTION_QA.md").read_text(encoding="utf-8")
     if "Cold-open candidates should come from complete conflict beats" not in retention:
         error("retention QA is missing the journey-derived hook rule", errors)
+    if "Reference influence must be observable in the paper edit and storyboard" not in retention:
+        error("retention QA is missing the reference-format gate", errors)
 
 
 def validate_learning_log(errors: list[str]) -> None:
