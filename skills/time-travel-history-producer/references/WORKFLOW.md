@@ -109,6 +109,13 @@ Lock before generation:
 - hero props and their state;
 - camera grammar for host, reconstruction and evidence.
 
+For every storyboard sequence, also write explicit **count locks** and **state-polarity
+locks**. Count locks cover people, seats, props and repeated objects. State-polarity
+locks cover visually opposite conditions whose reversal changes the story: occupied
+vs empty, open vs closed, raised vs lowered, moving vs stopped, present vs missing,
+inside vs outside and before vs after. Do not approve a semantically reversed panel
+just because the composition is attractive.
+
 Every shot must have a story function. Prefer character action, decision and reaction
 over empty establishing imagery.
 
@@ -122,6 +129,14 @@ After a correction passes QA, merge it into the numbered master and remove corre
 sidecars, superseded drafts and obsolete review files from the delivery directory.
 Use Git history and the learning log—not duplicate review assets—to preserve process
 history.
+
+Before storyboard approval, review every panel without its prompt and ask:
+
+1. Does the visible count match the locked count?
+2. Is the visible state the intended side of every polarity pair?
+3. Would a viewer infer the correct event within one second?
+
+Regenerate count or polarity failures before promoting the board to production.
 
 ## 7. Production
 
